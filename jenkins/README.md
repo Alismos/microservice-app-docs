@@ -74,3 +74,5 @@ Install [CloudBees AWS Credentials Plugin](https://plugins.jenkins.io/aws-creden
 ![image](assets/images/jenkins_plugin_aws.png)
 
 Create credentials in jenkins
+
+![iamge](assets/images/jenkins_aws_credentials.png)
