@@ -65,8 +65,12 @@ Configure ansible.cfg
 If there isn´t ansible.cfg 
 
 $ sudo mkdir -p /etc/ansible/
+
 $ tocuh /etc/ansible/ansible.cfg
 
+Create ANSIBLE_CONFIG as env variable to specify the ansible.cfg path
+
+[image](assets/images/ansible_cfg.png)
 ### Create aws credentials in aws 
 
 Install [CloudBees AWS Credentials Plugin](https://plugins.jenkins.io/aws-credentials) in jenkins
@@ -76,3 +80,17 @@ Install [CloudBees AWS Credentials Plugin](https://plugins.jenkins.io/aws-creden
 Create credentials in jenkins
 
 ![iamge](assets/images/jenkins_aws_credentials.png)
+
+### Configure webhooks
+
+Add webhook in github repository. settings >> Webhooks
+
+![image](assets/images/github_webhooks.png)
+
+Add repository url in jenkins 
+
+![image](assets/images/jenkins_github_url.png)
+
+Activate hook trigger
+
+![image](assets/images/jenkins_trigger.png)
