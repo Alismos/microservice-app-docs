@@ -158,4 +158,4 @@ Ansible [repo](https://github.com/Alismos/terraform-jenkins-slave)
 
 ![image](assets/images/pipeline_with_slave.png)
 
-![image]
+![image](assets/images/pipeline_frontend.png)
