@@ -78,6 +78,7 @@ Creation of the Application Load Balancer.
 ![image](assets/images/application_load_balancer.png)
 
 Attach the listener rule for the ALBs created
+
 ![image](assets/images/listener_load_balancer.png)
 
 Load balancer in aws
