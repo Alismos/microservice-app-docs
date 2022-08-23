@@ -2,7 +2,7 @@
 
 ## To be architecture 
 
-![image](assets/images/terraform%20architecture.drawio.png)
+![image](assets/images/terraform%20architecture.png)
 ## Configuración de Terraform
 
 ### Previous requirements 
